@@ -97,3 +97,11 @@ terraform destroy
 - The cluster is created in a new resource group named `cst8918-lab9-rg`
 - The cluster uses the latest stable Kubernetes version (1.28.5)
 - All resources are tagged appropriately for cost tracking
+
+
+Kuberenetes output:
+![Kubectl Applied](kubectl_applied.png)
+
+Store front running:
+![Store Front](store_front.png)
+
